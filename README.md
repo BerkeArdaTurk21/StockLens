@@ -19,7 +19,7 @@ An exploratory data analysis of five major tech stocks (AAPL, MSFT, TSLA, AMZN, 
 
 ## 🎯 Project Overview
 
-This project analyses the stock price behaviour of five major tech companies between **2020 and 2024**. The analysis covers price trends, moving averages, daily return distributions, annualised volatility and cross-stock correlations.
+This project analyses the stock price behaviour of five major tech companies between **2020 and present**. The analysis covers price trends, moving averages, daily return distributions, annualised volatility and cross-stock correlations.
 
 Data is fetched live via `yfinance` — no manual download required.
 
@@ -27,7 +27,7 @@ Data is fetched live via `yfinance` — no manual download required.
 
 ## 📊 Key Questions Answered
 
-- How did each stock perform from 2020 to 2024?
+- How did each stock perform from 2020 to 2025?
 - Which stock delivered the highest total return?
 - Where are the 30-day and 90-day moving averages relative to price?
 - How are daily returns distributed — how risky is each stock?
