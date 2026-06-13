@@ -116,4 +116,4 @@ Data is fetched automatically from Yahoo Finance — no CSV needed.
 
 **Berke Arda Turk**  
 Data Science & AI Enthusiast | Computer Science (B.ASc)  
-[🌐 Portfolio](https://berkeardaturk.com) · [💼 LinkedIn](https://www.linkedin.com/in/berke-arda-turk/) · [🐙 GitHub](https://github.com/Mood07)
+[🌐 Portfolio](https://berkeardaturk.com) · [💼 LinkedIn](https://www.linkedin.com/in/berke-arda-turk/) · [🐙 GitHub](https://github.com/BerkeArdaTurk21)
