@@ -115,5 +115,5 @@ Data is fetched automatically from Yahoo Finance — no CSV needed.
 ## 👨‍💻 Author
 
 **Berke Arda Turk**  
-Data Science & AI Enthusiast | Computer Science (B.ASc)  
+Computer Science student (AI & Data Science) · Vizja University
 [🌐 Portfolio](https://berkeardaturk.com) · [💼 LinkedIn](https://www.linkedin.com/in/berke-arda-turk/) · [🐙 GitHub](https://github.com/BerkeArdaTurk21)
